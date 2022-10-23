@@ -20,15 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cab6dc75-a61a-45f0-8ca1-919c4061e59c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/modules/checkTextInputs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/showMoreStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/services/requests.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/modules/forms.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/modules/forms.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +56,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Source\src\assets" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +72,7 @@
       <workItem from="1666244148321" duration="56000" />
       <workItem from="1666244279250" duration="11000" />
       <workItem from="1666244291313" duration="18342000" />
-      <workItem from="1666505906943" duration="3885000" />
+      <workItem from="1666505906943" duration="9718000" />
     </task>
     <servers />
   </component>
@@ -83,6 +91,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="526" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1666517839709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1666517839709" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1666269887303">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

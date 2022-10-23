@@ -1,15 +1,10 @@
-// import checkNumInputs from './checkNumInputs'
-
+import {postDate} from "../services/requests";
 
 const forms = () => {
     const form = document.querySelectorAll('form'),
         // использую для очистки инпутов после отправки на сервер
         inputs = document.querySelectorAll('input'),
         upload = document.querySelectorAll('[name="upload"]');
-
-
-    // обработка ввода данных(чтобы пользователь мог ввести в инпут телефона только цифры)
-    // checkNumInputs('input[name="user_phone"]')
 
 
     // для оповещения пользователя об отправке формы
@@ -28,17 +23,6 @@ const forms = () => {
         question: 'http://sveta_server'
     }
 
-    // отправка данных на сервер через fetch(который вернет promise и его нужно будет обработать)
-    const postDate = async (url, data) => {
-        // с помощью await в переменную res будет записан промис, который вернется от сервера, если бы без async await, в res был бы андефайнд, потому что код бы пошелработать дальше не дождавшись ответа
-        let res = await fetch(url, {
-            method: "POST",
-            body: data
-        })
-
-        // обработка промиса
-        return await res.text()
-    }
 
     const clearInputs = () => {
         inputs.forEach(el => {
