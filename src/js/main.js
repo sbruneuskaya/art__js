@@ -4,9 +4,11 @@ import forms from './modules/forms';
 import mask from './modules/mask';
 import checkTextInputs from './modules/checkTextInputs'
 import showMoreStyles from './modules/showMoreStyles'
+import burger from './modules/burger'
+import filter from './modules/filter'
+
 
 window.addEventListener("DOMContentLoaded", ()=>{
-
     modals();
     sliders('.feedback-slider-item', 'horizontal','.main-prev-btn', '.main-next-btn');
     sliders('.main-slider-item', 'vertical');
@@ -15,4 +17,6 @@ window.addEventListener("DOMContentLoaded", ()=>{
     checkTextInputs('[name="name"]')
     checkTextInputs('[name="message"]')
     showMoreStyles('.button-styles', '#styles .row')
+    burger('.burger-menu', '.burger')
+    filter()
 })
