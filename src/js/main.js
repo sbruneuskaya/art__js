@@ -6,6 +6,7 @@ import checkTextInputs from './modules/checkTextInputs'
 import showMoreStyles from './modules/showMoreStyles'
 import burger from './modules/burger'
 import filter from './modules/filter'
+import calc from "./modules/calc";
 
 
 window.addEventListener("DOMContentLoaded", ()=>{
@@ -19,4 +20,5 @@ window.addEventListener("DOMContentLoaded", ()=>{
     showMoreStyles('.button-styles', '#styles .row')
     burger('.burger-menu', '.burger')
     filter()
+    calc('#size','#material', '#options', '.promocode', '.calc-price')
 })
