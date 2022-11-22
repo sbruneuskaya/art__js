@@ -7,6 +7,7 @@ import showMoreStyles from './modules/showMoreStyles'
 import burger from './modules/burger'
 import filter from './modules/filter'
 import calc from "./modules/calc";
+import pictureSize from "./modules/pictureSize";
 
 
 window.addEventListener("DOMContentLoaded", ()=>{
@@ -21,4 +22,5 @@ window.addEventListener("DOMContentLoaded", ()=>{
     burger('.burger-menu', '.burger')
     filter()
     calc('#size','#material', '#options', '.promocode', '.calc-price')
+    pictureSize('.sizes-block')
 })

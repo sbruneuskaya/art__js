@@ -20,12 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cab6dc75-a61a-45f0-8ca1-919c4061e59c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/modules/calc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/pictureSize.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +76,7 @@
       <workItem from="1668420972558" duration="80000" />
       <workItem from="1668421126935" duration="175000" />
       <workItem from="1668421404868" duration="101000" />
-      <workItem from="1669029274268" duration="3177000" />
+      <workItem from="1669029274268" duration="4555000" />
     </task>
     <servers />
   </component>
