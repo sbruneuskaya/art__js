@@ -8,6 +8,7 @@ import burger from './modules/burger'
 import filter from './modules/filter'
 import calc from "./modules/calc";
 import pictureSize from "./modules/pictureSize";
+import accordion from "./modules/accordion";
 
 
 window.addEventListener("DOMContentLoaded", ()=>{
@@ -23,4 +24,5 @@ window.addEventListener("DOMContentLoaded", ()=>{
     filter()
     calc('#size','#material', '#options', '.promocode', '.calc-price')
     pictureSize('.sizes-block')
+    accordion('.accordion-heading', '.accordion-block')
 })
