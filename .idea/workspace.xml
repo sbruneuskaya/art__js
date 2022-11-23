@@ -20,11 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cab6dc75-a61a-45f0-8ca1-919c4061e59c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/modules/accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/drop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/requestAnimation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/modules/scrolling.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/script.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +57,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\udemy\Source\src\assets" />
       <recent name="D:\Source\src\assets" />
     </key>
   </component>
@@ -77,7 +83,7 @@
       <workItem from="1668420972558" duration="80000" />
       <workItem from="1668421126935" duration="175000" />
       <workItem from="1668421404868" duration="101000" />
-      <workItem from="1669029274268" duration="7632000" />
+      <workItem from="1669029274268" duration="15084000" />
     </task>
     <servers />
   </component>
@@ -105,9 +111,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1666269887303" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1668421301198">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1669196357719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1668421301198" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1669196357719" />
   </component>
 </project>

@@ -9,6 +9,9 @@ import filter from './modules/filter'
 import calc from "./modules/calc";
 import pictureSize from "./modules/pictureSize";
 import accordion from "./modules/accordion";
+import drop from "./modules/drop";
+import scrolling from "./modules/scrolling";
+import requestAnimation from "./modules/requestAnimation";
 
 
 window.addEventListener("DOMContentLoaded", ()=>{
@@ -25,4 +28,7 @@ window.addEventListener("DOMContentLoaded", ()=>{
     calc('#size','#material', '#options', '.promocode', '.calc-price')
     pictureSize('.sizes-block')
     accordion('.accordion-heading', '.accordion-block')
+    drop()
+    // scrolling('.pageup')
+    requestAnimation('.pageup')
 })
